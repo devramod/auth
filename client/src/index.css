@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  box-sizing: border-box;
+  outline: none;
+  text-decoration: none;
+}
+
+.react-tel-input .flag-dropdown.open .selected-flag {
+  background-color: transparent;
+}
+.react-tel-input .flag-dropdown :hover {
+  background-color: transparent;
+}
